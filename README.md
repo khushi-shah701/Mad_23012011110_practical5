@@ -3,7 +3,7 @@
 ##  Aim
 To create an Android application that includes Login and Registration screens using Jetpack Compose.
 
-## ⚙️ Features
+## Features
 - **Modern UI:** Built entirely with Jetpack Compose and Material 3.
 - **Login Screen:** Includes email and password fields with validation placeholders.
 - **Registration Screen:** Allows new users to register with name, phone, city, email, and password.
